@@ -1,0 +1,27 @@
+body {
+    padding-left: 35%;
+    padding-right: 35%;
+    background-color: azure;
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    text-align: left;
+    padding: 5px;
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+}
+
+th {
+    white-space: nowrap;
+}
+
+.fun {
+    margin-top: 99%;
+}
